@@ -22,8 +22,8 @@ class WebServer():
 
 
 class RunBot():
-  room_id = "66bad059afeca0c24b497205"
-  bot_token = "cd775a78a08c98e6a0262fc6eae8fffa7e21fbb6204ed7503030df816ab05f7e"
+  room_id = "torrie your room Id"
+  bot_token = "bot api key from highrise website"
   bot_file = "main"
   bot_class = "Bot"
 
